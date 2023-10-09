@@ -6,4 +6,4 @@ DashBoard Public link:https://public.tableau.com/views/WholesalerCustomerAnalysi
 StoryPublic Link:https://public.tableau.com/views/WholesalerCustomerAnalysisisstorysuccessful/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-Project Video Demonstration link:https://drive.google.com/file/d/1V_lzzIeR7xxdOIKKnY1z80vv9-NvrImt/view?usp=drivesdk
+Project Video Demonstration link:https://drive.google.com/drive/folders/1qAvVLystwsa7Qfqx28VhDrJDRj7-Wo8m?usp=sharing
